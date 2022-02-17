@@ -1,6 +1,10 @@
 # BlurCvPy
 blur Tool design with opencv in python
 
-![alt text](https://github.com/AmirhosseinAbutalebi/BlurCvPy/blob/main/Screenshot.png)
+# Requirement
+`pip install opencv-python`<br>
+`pip install numpy`<br>
+`pip install argparse`<br>
 
-screenshot from export program
+# ScreenShot
+![alt text](https://github.com/AmirhosseinAbutalebi/BlurCvPy/blob/main/Screenshot.png)
